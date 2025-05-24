@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
+//Esse é o conversor de Celsius para Fahrenheit e Kelvin
 package com.mycompany.divisao;
 import java.util.Scanner;
 
